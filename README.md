@@ -1,1 +1,5 @@
-# Checklist_bugreports
+Check-list: https://docs.google.com/spreadsheets/d/1BM1tTZ_rsx38232Rzp_dLTYRICJOQryc31Wj5hPczyM/edit?usp=sharing
+
+Bug-reports: https://docs.google.com/document/d/1TN-aeeo99eJJMAehmhZS4XrcJHEN5twJCDOtthbqdos/edit?usp=sharing
+
+![alt text](picture_checklist1.png)
