@@ -1,4 +1,4 @@
-**Test task**
+**Test task simaland and test task from courses**
 
 Task Check-list: https://docs.google.com/spreadsheets/d/1BM1tTZ_rsx38232Rzp_dLTYRICJOQryc31Wj5hPczyM/edit?usp=sharing
 
