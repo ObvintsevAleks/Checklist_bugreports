@@ -6,9 +6,9 @@ Task Bug-reports: https://docs.google.com/document/d/1TN-aeeo99eJJMAehmhZS4XrcJH
 
 Course project QA Documentation: 
 
-project_Screen map: https://drive.google.com/file/d/1o-IxBB8DjPi55rzlMjDdSv9dmCE59R7q/view?usp=sharing
+project_Screen_map: https://drive.google.com/file/d/1o-IxBB8DjPi55rzlMjDdSv9dmCE59R7q/view?usp=sharing
 
-project_Acceptance criteria: https://docs.google.com/document/d/1VcWyls4tVULPVyjgDGcpZdAUpNDCC08E/edit?usp=sharing&ouid=115918845118508181642&rtpof=true&sd=true
+project_Acceptance_criteria: https://docs.google.com/document/d/1VcWyls4tVULPVyjgDGcpZdAUpNDCC08E/edit?usp=sharing&ouid=115918845118508181642&rtpof=true&sd=true
 
 project_field_requerements: https://docs.google.com/document/d/1bHWccZdsEXGf7hej2pmXN6q0Zk6WHy6h/edit?usp=sharing&ouid=115918845118508181642&rtpof=true&sd=true
 
